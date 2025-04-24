@@ -1,1 +1,1 @@
-# Power-of-any-integers-
+Cube of any integers 
